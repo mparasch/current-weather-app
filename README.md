@@ -34,11 +34,14 @@ This Python application fetches and displays current weather information for a s
    pip install requests
    ```
 3. Replace `<API KEY FOR OPENWEATHER HERE>` in the `weather_app.py` file with your OpenWeather API key.
-4. Run the application:
+
+**If you just created your API Key, you may get errors until a couple hours after it being verified via email**
+
+6. Run the application:
    ```bash
    python weather_app.py
    ```
-5. Enter the name of the city in the text box and press the **Return** key or click the "Get Weather" button.
+7. Enter the name of the city in the text box and press the **Return** key or click the "Get Weather" button.
 
 ### Creating an Executable
 1. Install PyInstaller if not already installed:
