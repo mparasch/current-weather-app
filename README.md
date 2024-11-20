@@ -62,6 +62,7 @@ This Python application fetches and displays current weather information for a s
 ├── weather_app.py        # Main script for the weather application
 ├── weather_app.spec      # PyInstaller specification file for creating an executable
 ├── background_image.png  # Background image for the GUI (ensure this file exists)
+├── app_screenshot.png    # screenshot example of how the app should behave
 ```
 ---
 
@@ -83,6 +84,7 @@ A PyInstaller specification file used to package the application into a standalo
 ---
 
 ## Example Screenshot
+![image](./app_screenshot.png)
 
 ---
 
